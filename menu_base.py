@@ -13,10 +13,10 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        datos_nacchi()
+        datos_nacchi()  # Llamada a la función de Ignacia
     elif op == "2":
-        pass # Aquí se llamará a la función del integrante 2
+        pass  # Aquí se llamará a la función del integrante 2
     elif op == "3":
-        pass # Aquí se llamará a la función del integrante 3
+        pass  # Aquí se llamará a la función del integrante 3
     else:
         print("Opción inválida.")
