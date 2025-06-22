@@ -1,6 +1,7 @@
 def datos_nacchi():
     print("Mi nombre es Ignacia Padilla y tengo 34 años.")
-
+def datos_cami ():
+    print("Mi nombre es Camila Cerda y tengo 26 años")
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
@@ -15,8 +16,9 @@ while True:
     elif op == "1":
         datos_nacchi()  # Llamada a la función de Ignacia
     elif op == "2":
-        pass  # Aquí se llamará a la función del integrante 2
+        datos_cami()
+        # Aquí se llamará a la función del integrante 2
     elif op == "3":
-        pass  # Aquí se llamará a la función del integrante 3
+        def   # Aquí se llamará a la función del integrante 3
     else:
         print("Opción inválida.")
